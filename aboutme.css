@@ -1,0 +1,81 @@
+body {
+  background-color: #00A896;
+}
+
+h1 {
+  border: 7px outset darkblue;
+  color: white;
+  font-family: Chewy, cursive;
+  font-size: 44px;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+  margin-top: 40px;
+  width: 1340px;
+}
+
+#Photo {
+  border: 7px inset darkblue;
+  float: left;
+  margin: auto;
+  margin-top: 3%;
+  width: 650px;
+  height: 650px;
+}
+
+#Background {
+  border: 7px ridge darkblue;
+  color: white;
+  font-family: Merriweather, serif;
+  font-size: 24px;
+  float: right;
+  margin: auto;
+  margin-top: 3%;
+  width: 650px;
+  height: 650px;
+}
+
+.reason{
+  margin: 3%;
+}
+
+.center {
+  text-align: center;
+}
+
+#More {
+  border: 7px ridge darkblue;
+  color: white;
+  font-family: Merriweather, serif;
+  font-size: 24px;
+  float: left;
+  margin: auto;
+  margin-top: 3%;
+  width: 1321px;
+}
+
+.more {
+  margin: 1%;
+}
+
+#Certificate {
+  border: 7px inset darkblue;
+  float: left;
+  margin: auto;
+  margin-top: 3%;
+  width: 650px;
+  height: 490px;
+}
+
+#Setup {
+  border: 7px inset darkblue;
+  float: right;
+  margin: auto;
+  margin-top: 3%;
+  width: 650px;
+  height: 650px;
+}
+
+table {
+  margin: auto;
+}

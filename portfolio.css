@@ -1,0 +1,49 @@
+body {
+  background-color: #00A896;
+}
+
+h1 {
+  border: 7px ridge darkblue;
+  color: white;
+  font-family: Itim, cursive;
+  font-size: 44px;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+  margin-top: 40px;
+  width: 1340px;
+}
+
+table {
+  border: 7px ridge darkblue;
+  margin: auto;
+  margin-top: 7%;
+  width: 1321px;;
+}
+
+thead {
+  color: white;
+  font-family: Merriweather, serif;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: underline;
+  height: 2em;
+}
+
+#p1 {
+  color: white;
+  font-family: Merriweather, serif;
+  font-size: 20px;
+  margin: auto;
+  width: 678px;
+}
+
+#SpectrumV {
+  text-align: center;
+  margin: auto;
+}
+
+img {
+  border: solid 3px white;
+  width: 678px;
+}

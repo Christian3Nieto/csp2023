@@ -1,0 +1,39 @@
+body {
+  background-color: #00A896;
+}
+
+h1 {
+  border: 7px double darkblue;
+  color: white;
+  font-family: Itim, cursive;
+  font-size: 44px;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+  margin-top: 40px;
+  width: 55%;
+}
+
+table {
+  border: 7px double darkblue;
+  margin: auto;
+  margin-top: 7%;
+  width: 55%;
+}
+
+thead {
+  color: white;
+  font-family: Merriweather, serif;
+  font-size: 24px;
+  font-weight: bold;
+  height: 2em;
+}
+
+#image {
+  text-align: center;
+}
+
+img {
+  width: 55%;
+  height: 55%;
+}
